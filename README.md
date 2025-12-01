@@ -1,6 +1,6 @@
 # Deep Learning Portfolio
 
-![CI](https://github.com/ericknyatenya/deep-learning-portfolio/actions/workflows/ci.yml/badge.svg)
+![CI](https://img.shields.io/github/actions/workflow/status/ericknyatenya/deep-learning-portfolio/ci.yml?branch=main&style=flat-square)
 
 A collection of notebooks and simple model implementations for learning deep learning fundamentals.
 
