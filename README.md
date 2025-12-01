@@ -1,5 +1,7 @@
 # Deep Learning Portfolio
 
+![CI](https://github.com/ericknyatenya/deep-learning-portfolio/actions/workflows/ci.yml/badge.svg)
+
 A collection of notebooks and simple model implementations for learning deep learning fundamentals.
 
 Repository structure:
